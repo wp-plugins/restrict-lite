@@ -34,5 +34,6 @@ View what roles are specific to what user here: http://codex.wordpress.org/Roles
 1. Using a shortcode with multiple roles in the WYSIWYG editor.
 
 == Changelog ==
-Added a screenshot
-Added pluginname
+
+= 1.0 =
+* Initial release
