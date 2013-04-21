@@ -26,3 +26,7 @@ To restrict just a section of content within a post or page, you may use shortco
 = Where can i get a list of roles? =
 
 View what roles are specific to what user here: http://codex.wordpress.org/Roles_and_Capabilities
+
+== Screenshots ==
+
+1. Using a shortcode with multiple roles in the WYSIWYG editor.
