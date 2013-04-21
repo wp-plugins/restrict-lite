@@ -12,11 +12,11 @@ An easy way to limit what data is shown to users with a simple a shortcode.
 
 == Description ==
 
-An easy way to limit what data is shown to users with a simple a shortcode. Any content placed inside the shorttag will be restricted to logged in users only with the correct roles.
+An easy way to limit what data is shown to users with a simple a shortcode. Any content placed inside the shortcode will be restricted to logged in users only with the correct roles.
 
 == Installation ==
 
-1. Upload `restrictlite` to the `/wp-content/plugins/` directory
+1. Upload `restrict-lite` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
 To restrict just a section of content within a post or page, you may use shortcodes like this:
