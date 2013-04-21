@@ -5,6 +5,7 @@ Requires at least: 3.0.1
 Tested up to: 3.5.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Stable tag: trunk
 
 An easy way to limit what data is shown to users with a simple a shortcode.
 
@@ -30,3 +31,7 @@ View what roles are specific to what user here: http://codex.wordpress.org/Roles
 == Screenshots ==
 
 1. Using a shortcode with multiple roles in the WYSIWYG editor.
+
+== Changelog ==
+Added a screenshot
+Added pluginname
