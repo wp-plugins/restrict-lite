@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Restrict Lite ===
 Author http://shaunewest.com
 Contributors: shaune
 Tags: admin, restrict, roles, members only, restricted area
