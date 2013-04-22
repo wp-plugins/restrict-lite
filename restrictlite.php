@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: Restrict lite
-Plugin URI: http://shaunewest.com/plugin
-Description: Accordian tabs
-Version: 0.01
+Plugin URI: http://wordpress.org/extend/plugins/restrict-lite/
+Description: An easy way to limit what data is shown to users with a simple a shortcode.
+Version: 1.0
 Author: Shaune West
 Author URI: http://shaunewest.com
 License: GPL2
