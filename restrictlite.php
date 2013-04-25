@@ -3,7 +3,7 @@
 Plugin Name: Restrict lite
 Plugin URI: http://wordpress.org/extend/plugins/restrict-lite/
 Description: Important, change shortcode from "role" to "capability". Role has been depreciated and will be removed in future builds.
-Version: 1.1
+Version: 1.101
 Author: Shaune West
 Author URI: http://shaunewest.com
 License: GPL2
@@ -11,7 +11,7 @@ License: GPL2
 add_shortcode('restrict', 'restrict_shortcode');
 function restrict_shortcode($atts, $content = null) {
 	$defaults = array(
-		'role' => ''
+		'role' => '',
 		'capability' => ''
 	);
 	extract(shortcode_atts($defaults, $atts));
