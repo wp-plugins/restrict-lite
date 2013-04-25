@@ -35,6 +35,9 @@ View what roles are specific to what user here: http://codex.wordpress.org/Roles
 
 == Changelog ==
 
+= 1.101 =
+* Fixed Syntax error introduced in 1.1
+
 = 1.1 =
 * Important change, role is now capability to better reflect is true name. 
 * role will be removed in future builds. Please make changes to your shortcodes!
