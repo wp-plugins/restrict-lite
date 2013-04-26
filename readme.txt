@@ -16,8 +16,8 @@ An easy way to limit what data is shown to users with a simple a shortcode. Any 
 
 == Installation ==
 
-1. Manual Installation: Upload `restrict-lite` to the `/wp-content/plugins/` directory
-2. Activate the plugin through the 'Plugins' menu in WordPress
+1. Manual Installation: Upload `restrict-lite` to the `/wp-content/plugins/` directory.
+2. Activate the plugin through the 'Plugins' menu in WordPress.
 
 To restrict just a section of content within a post or page, you may use shortcodes like this:
 
