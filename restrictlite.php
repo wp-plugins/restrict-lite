@@ -2,7 +2,7 @@
 /*
 Plugin Name: Restrict lite
 Plugin URI: http://wordpress.org/extend/plugins/restrict-lite/
-Description: Important, change shortcode from "role" to "capability". Role has been depreciated and will be removed in future builds.
+Description: An easy way to limit what data is shown to users with a simple a shortcode. Any content placed inside the shortcode will be restricted to logged in users only with the correct capabilities.
 Version: 1.101
 Author: Shaune West
 Author URI: http://shaunewest.com

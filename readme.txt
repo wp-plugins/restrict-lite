@@ -33,9 +33,17 @@ View what roles are specific to what user here: http://codex.wordpress.org/Roles
 
 1. Using a shortcode with multiple roles in the WYSIWYG editor.
 
+== Upgrade Notice ==
+= 1.102 =
+Important, change shortcode from "role" to "capability". Role has been depreciated and will be removed in future builds.
+
+
 == Changelog ==
 
-= 1.101 =
+= 1.102 =
+* Upgrade notice included
+
+= 1.102 =
 * Fixed Syntax error introduced in 1.1
 
 = 1.1 =
