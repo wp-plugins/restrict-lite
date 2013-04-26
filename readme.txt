@@ -6,7 +6,7 @@ Requires at least: 3.0.1
 Tested up to: 3.5.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Stable tag: trunk
+Stable tag: 1.103
 
 An easy way to limit what data is shown to users with a simple a shortcode.
 
@@ -40,7 +40,7 @@ Important, change shortcode from "role" to "capability". Role has been depreciat
 
 == Changelog ==
 
-= 1.102 =
+= 1.103 =
 * Upgrade notice included.
 
 = 1.102 =
