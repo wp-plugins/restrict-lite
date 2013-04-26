@@ -41,7 +41,7 @@ Important, change shortcode from "role" to "capability". Role has been depreciat
 == Changelog ==
 
 = 1.102 =
-* Upgrade notice included
+* Upgrade notice included.
 
 = 1.102 =
 * Fixed Syntax error introduced in 1.1
