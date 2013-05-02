@@ -6,7 +6,7 @@ Requires at least: 3.0.1
 Tested up to: 3.5.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Stable tag: 1.1.0.3
+Stable tag: 1.2
 
 An easy way to limit what data is shown to users with a simple a shortcode.
 
@@ -34,11 +34,16 @@ View what roles are specific to what user here: http://codex.wordpress.org/Roles
 1. Using a shortcode with multiple roles in the WYSIWYG editor.
 
 == Upgrade Notice ==
+= 1.2 =
+Important, change shortcode from "role" to "capability". Role has been depreciated and will be removed in future builds.
+
 = 1.1.0.3 =
 Important, change shortcode from "role" to "capability". Role has been depreciated and will be removed in future builds.
 
 
 == Changelog ==
+= 1.2 =
+* Updates to readme
 
 = 1.1.0.3 =
 * Upgrade notice included.
