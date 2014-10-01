@@ -2,8 +2,8 @@
 /*
 Plugin Name: Restrict lite
 Plugin URI: http://wordpress.org/extend/plugins/restrict-lite/
-Description: An easy way to limit what data is shown to users with a simple a shortcode. Any content placed inside the shortcode will be restricted to logged in users only with the correct capabilities.
-Version: 1.2
+Description: An easy way to limit what data is shown to users with a simple a shortcode. Any content placed inside the shortcode will be restricted to users with the correct capabilities.
+Version: 1.3
 Author: Shaune West
 Author URI: http://shaunewest.com
 License: GPL2
@@ -15,7 +15,8 @@ function restrict_shortcode($atts, $content = null) {
 		'capability' => ''
 	);
 	extract(shortcode_atts($defaults, $atts));
-	$roles = explode(',', $role); 
+	$roles = explode(',', $role);
+	$capability = explode(',', $capability);
 	if (is_user_logged_in()) {
 		if (!empty($roles)) {
 			foreach($roles as $role) {
